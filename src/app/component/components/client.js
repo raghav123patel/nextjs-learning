@@ -9,5 +9,5 @@ export default function ClientComponent({serverData}){
                 ))} 
             </ul>
         </div>     
-    )
-}
+    )      
+} 
