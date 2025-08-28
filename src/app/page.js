@@ -8,6 +8,7 @@
           {/* <li><Link href="/about">Home</Link></li> */}
           <li><Link href="/home">About</Link></li>
           <li><Link href="/services">Services</Link></li>
+          <li><Link href="/components">API fetching</Link></li>
         </ul>
       </div>           
      )
