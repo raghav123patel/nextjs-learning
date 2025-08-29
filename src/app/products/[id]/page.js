@@ -11,8 +11,8 @@ export default async function ProductPage({ params }) {
 
     return (  
         <div>
-            <h1>Product Details</h1>
+            <h1>Product Details</h1>  
             <Client datas={data} />  
-        </div>
-    );
+        </div>     
+    );     
 }
